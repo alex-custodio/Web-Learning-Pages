@@ -40,3 +40,6 @@ h2{
 h3{
     text-align: center;;
 }
+.image{
+    border: 10px solid grey;
+}
