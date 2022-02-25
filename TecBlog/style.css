@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #e6e6e6;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+#menu{
+    background-color: #f7b600;
+    height: 135px;
+    text-align: center;
+}
+h1{
+    color: #4e4e4e;
+    padding-top: 30px;
+    font-size: 2.5em;
+    padding-bottom: 15px;
+}
+.link{
+    text-decoration: none;
+    padding: 12px;
+    color: white;
+}
+.link:hover{
+    background-color: white;
+    color:#f7b600;
+    
+}
+.link:visited{
+    color: white
+}
+.area_post{
+    width: 920px;
+    margin: 15px auto auto auto;
+}
+.postagem{
+    
+    background-color: white;
+    width: 660px;
+    margin-top: 15px;
+    padding-bottom: 18px;
+    padding-top: 18px;
+    padding-left: 20px;
+}
+h2{
+    color: #f7b600;
+}
+.subtitle{
+    font-size: 13px;
+}
+img{
+    margin-top: 15px;
+    
+}
+a{
+    color: #f7b600;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+a:visited{
+    text-decoration: none;
+    color: #f7b600
+}
